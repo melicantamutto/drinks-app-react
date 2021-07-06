@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/drinks-app-react/static/css/main.ce08e1f2.chunk.css",
-    "main.js": "/drinks-app-react/static/js/main.4a4e7811.chunk.js",
-    "main.js.map": "/drinks-app-react/static/js/main.4a4e7811.chunk.js.map",
+    "main.js": "/drinks-app-react/static/js/main.e507593e.chunk.js",
+    "main.js.map": "/drinks-app-react/static/js/main.e507593e.chunk.js.map",
     "runtime-main.js": "/drinks-app-react/static/js/runtime-main.01c10471.js",
     "runtime-main.js.map": "/drinks-app-react/static/js/runtime-main.01c10471.js.map",
     "static/js/2.84b39dd9.chunk.js": "/drinks-app-react/static/js/2.84b39dd9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.01c10471.js",
     "static/js/2.84b39dd9.chunk.js",
     "static/css/main.ce08e1f2.chunk.css",
-    "static/js/main.4a4e7811.chunk.js"
+    "static/js/main.e507593e.chunk.js"
   ]
 }
